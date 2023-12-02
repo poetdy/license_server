@@ -1,10 +1,6 @@
 { "licenses" : {
     "6991923480320069": { 
           "name" : "Я, работа", 
-          "admin" : false,  
-          "mac": "50:eb:f6:2b:30:3f",
-          "user": "Kompanion78",
-          "proc": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
           "persmessage": "yefgh",
           "scrips": {
             "expire": "2023-12-30",
@@ -27,10 +23,6 @@
         },
     "3873466825610494": {
           "name" : "Я, дом", 
-          "admin" : true,  
-          "mac":"64:6e:69:3c:60:4c",
-          "user":".@89  0=8;>2",
-          "proc":"Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
           "persmessage": "",
           "scrips": {
             "expire": "2023-9-18",
@@ -41,10 +33,6 @@
         },
     "3741484173656433":{
         "name" : "Я, работа alter (user+3)", 
-        "admin" : true,  
-        "mac":"50:eb:f6:2b:30:3f",
-        "user":"Kompanion783",
-        "proc":"Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
         "persmessage": ""        
     }
 },
