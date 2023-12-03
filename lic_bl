@@ -22,7 +22,7 @@
          "admin" : false,         
        "persmessage": "",
      "AnalyzModel v2trial.js": {
-           "expire": "2023-12-10",
+           "expire": "2023-12-1",
            "warning": 14,
            "timer": true,
            "run": true,
