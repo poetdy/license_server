@@ -26,6 +26,7 @@
            "warning": 8,
            "timer": true,
            "run": true,
+          "modul": "RHS",  
           "persmessage": ""   
          }
        },
