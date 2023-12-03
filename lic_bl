@@ -39,7 +39,7 @@
            "warning": 14,
            "timer": true,
            "run": true,
-          "modul": "",  
+          "modul": "RH",  
           "persmessage": ""   
          }
        },
