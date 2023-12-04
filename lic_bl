@@ -71,6 +71,19 @@
            "persmessage": ""   
          }
        },
+ "e97fe8874c139e6d05ada74d89fb3373f7a84c8fa5c7237f386a788ae002796723daa44d2981e1365558bd232bf0daba0e813d188fe5af230c13847109a7cec9435fd15d143f2ec03631a5d1010d021d190d3b3ecbdf5fb62bdf78b198e2b679fcbbe2ec3dbdedf31d6d9bb0edd99a4403fb95a5757f1d97d0ef13aaa15d9405": {
+         "name" : "Дмитрий ", 
+         "admin" : false,         
+         "persmessage": "",
+         "AnalyzModel v2trial.js": {
+           "expire": "2023-12-11",
+           "warning": 3,
+           "timer": true,
+           "run": true,
+           "modul": "RHS",  
+           "persmessage": ""   
+         }
+       },
    "3741484173656433":{
        "name" : "Я, работа alter (user+3)", 
        "admin" : true,         
