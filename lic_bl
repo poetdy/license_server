@@ -84,6 +84,19 @@
            "persmessage": ""   
          }
        },
+ "e97fe8874c139e6d05ada74d89fb3373f7a84c8fa5c7237f386a788ae0027967614d190490a40efad361d251ba86b62378d91523d8f22921edcda293dfd804abefcf4641f64630ecb851e82e6eb0f793fb54f9f366f0d476656e92adc7a73bd20e340e82c05a7ca026622b5c8a6015af051926fbd3fcfeaea7a276a70e6b0886": {
+         "name" : "Дмитрий другое разрешение экрана", 
+         "admin" : false,         
+         "persmessage": "",
+         "AnalyzModel v2trial.js": {
+           "expire": "2023-12-6",
+           "warning": 3,
+           "timer": true,
+           "run": true,
+           "modul": "RHS",  
+           "persmessage": ""   
+         }
+       },
    "3741484173656433":{
        "name" : "Я, работа alter (user+3)", 
        "admin" : true,         
