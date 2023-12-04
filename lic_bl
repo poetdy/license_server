@@ -1,8 +1,8 @@
 {"licenses" : {
-     "6991923480320069": { 
+     "e97fe8874c139e6d05ada74d89fb3373cfe00c49fcce57b3278c55ef66486494b1553cd84bc6d1cd53afe178a43fd2ce02720aeea598df218ea4ce85871f561dea92d56491c951ee1d49df690435914faab1247bb213c4fc791d9c5898a03edfc96bc74ba90a8919673f8dfd00b9689a": { 
          "name" : "Я, работа", 
          "admin" : false,
-         "persmessage": "yefgh",
+         "persmessage": "",
          "AnalyzModel V1.0.js": {
            "expire": "2099-10-01",
            "warning": 14,
@@ -45,6 +45,19 @@
        },
  "e97fe8874c139e6d05ada74d89fb337345a056e18e660a9ffd84d600148f81bff107cb2039a240eaf0a97f830898041af82673113959ce579bd2e80f0881eecaf29ef30464af891252bdec87ed1ed1d76d2973e209a368a94b6ab935a76d854a72e5e6ea5c3dee14f187b5f44159ec11": {
          "name" : "Кирилл +7-901-803-66-68 (@kir_pichik)", 
+         "admin" : false,         
+         "persmessage": "",
+     "AnalyzModel v2trial.js": {
+           "expire": "2023-12-11",
+           "warning": 3,
+           "timer": true,
+           "run": true,
+           "modul": "RHS",  
+           "persmessage": ""   
+         }
+       },
+ "e97fe8874c139e6d05ada74d89fb337365edc2b07a6ddc60e167744a3eb9c7f9f614155ed2b05e8c3e1ec70a57f84229be209752807e886290203f5dbc933487d833823830397e94f36855d3010abd8e10f36fdf4c9d674687de2793ef66d16606934e0b5f712c116e9a410981ce0f18": {
+         "name" : "Николай +79046891601 @Bizeklon", 
          "admin" : false,         
          "persmessage": "",
      "AnalyzModel v2trial.js": {
