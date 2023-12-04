@@ -2,11 +2,11 @@
      "e97fe8874c139e6d05ada74d89fb3373cfe00c49fcce57b3278c55ef66486494b1553cd84bc6d1cd53afe178a43fd2ce02720aeea598df218ea4ce85871f561dea92d56491c951ee1d49df690435914faab1247bb213c4fc791d9c5898a03edfc96bc74ba90a8919673f8dfd00b9689a": { 
          "name" : "Я, работа", 
          "admin" : false,
-         "persmessage": "",
-         "AnalyzModel V1.0.js": {
-           "expire": "2099-10-01",
-           "warning": 14,
-           "timer": false,
+         "persmessage": "budabum",
+         "AnalyzModel v2trial.js": {
+           "expire": "2099-10-11",
+           "warning": 3,
+           "timer": true,
            "run": true
          },
           "Elastick V1.0.js": {
