@@ -43,6 +43,19 @@
           "persmessage": ""   
          }
        },
+ "e97fe8874c139e6d05ada74d89fb337345a056e18e660a9ffd84d600148f81bff107cb2039a240eaf0a97f830898041af82673113959ce579bd2e80f0881eecaf29ef30464af891252bdec87ed1ed1d76d2973e209a368a94b6ab935a76d854a72e5e6ea5c3dee14f187b5f44159ec11": {
+         "name" : "Кирилл +7-901-803-66-68 (@kir_pichik)", 
+         "admin" : false,         
+         "persmessage": "",
+     "AnalyzModel v2trial.js": {
+           "expire": "2023-12-11",
+           "warning": 3,
+           "timer": true,
+           "run": true,
+           "modul": "RHS",  
+           "persmessage": ""   
+         }
+       },
    "3741484173656433":{
        "name" : "Я, работа alter (user+3)", 
        "admin" : true,         
