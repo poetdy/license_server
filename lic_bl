@@ -97,6 +97,19 @@
            "persmessage": ""   
          }
        },
+ "e97fe8874c139e6d05ada74d89fb33732900413772125efe53c8d944f39325f56a8e49fe9ef3291dea793c756baa637a47fcd81b039fb7e5da0eebe3228630c5f66d3a6c44b550f3587a421e4ad16497dc5c1239ae42036348564a2b1f20cd052502c07a633625a23c0b870e5bc3267328638593a41563b294f6bf6205edcfa8": {
+         "name" : "Dmitrii Gorbunov 89509330330 Комп технолога", 
+         "admin" : false,         
+         "persmessage": "",
+         "AnalyzModel v2trial.js": {
+           "expire": "2023-12-11",
+           "warning": 3,
+           "timer": true,
+           "run": true,
+           "modul": "RHS",  
+           "persmessage": ""   
+         }
+       },
    "3741484173656433":{
        "name" : "Я, работа alter (user+3)", 
        "admin" : true,         
