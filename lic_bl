@@ -110,6 +110,19 @@
            "persmessage": ""   
          }
        },
+ "e97fe8874c139e6d05ada74d89fb3373f6898079c8dbbf98e83d1e2414e9c65bcea0f2b0cc48349e772a9c41c7e515458d7da4494938c30587b5d6f807d57f8e06e5fac6adf2c77d4053216efbd1c80f9135d9feeb9a044c6966ab7a36e83051c3b42713f2ae06f9a4030466d55a5bea": {
+         "name" : "Артем", 
+         "admin" : false,         
+         "persmessage": "",
+         "AnalyzModel v2trial.js": {
+           "expire": "2023-12-11",
+           "warning": 3,
+           "timer": true,
+           "run": true,
+           "modul": "RHS",  
+           "persmessage": ""   
+         }
+       },
    "3741484173656433":{
        "name" : "Я, работа alter (user+3)", 
        "admin" : true,         
