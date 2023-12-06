@@ -8,7 +8,7 @@
            "warning": 3,
            "timer": true,
            "run": true,
-          "modul": "R",  
+          "modul": "RHS",  
          "persmessage": ""   
          },
           "Elastick V1.0.js": {
