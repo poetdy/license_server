@@ -65,6 +65,19 @@
         "persmessage": ""   
       }
     },
+"e97fe8874c139e6d05ada74d89fb3373bf2dbd6eccd2df2b2b7ca8e1ea77242f7948e912b8de459deecba5f0d3d58b1cfb128f30f5651aa4e0c515c2a6c173bb459477352b5a707bf5cf9afc5a39e6173237c4025b6ba52bd015451f0c0db75861941d89a3e816e372e351c182c71b1a9f64dd96634e44493a9bc1d46bf73e69": {
+      "name" : "Евгений . Логин в телеге Tuzmanishe (Tuz)", 
+      "admin" : false,         
+      "persmessage": "",
+  "AnalyzModel v2.01.js": {
+        "expire": "2023-12-24",
+        "warning": 3,
+        "timer": true,
+        "run": true,
+        "modul": "RHS",  
+        "persmessage": ""   
+      }
+    },
 "e97fe8874c139e6d05ada74d89fb337365edc2b07a6ddc60e167744a3eb9c7f9f614155ed2b05e8c3e1ec70a57f84229be209752807e886290203f5dbc933487d833823830397e94f36855d3010abd8e10f36fdf4c9d674687de2793ef66d16606934e0b5f712c116e9a410981ce0f18": {
       "name" : "Николай +79046891601 @Bizeklon", 
       "admin" : false,         
