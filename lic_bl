@@ -78,6 +78,19 @@
         "persmessage": ""   
       }
     },
+"e97fe8874c139e6d05ada74d89fb33732cb79b4d330ba254ae086c86d25eee44affa1eae420c027738ee76c481c9ec3bf2bdf7d2d3bd54c91df60b5481ae30b3bf9129540807fc431b2d1c4c1c48f4b949cfd7f937e7ca748d485daa6e11e7b1defbdfbd3b786e46346bee31756b5b09": {
+      "name" : "Евгений Tuz 2", 
+      "admin" : false,         
+      "persmessage": "",
+  "AnalyzModel v2.01.js": {
+        "expire": "2023-12-24",
+        "warning": 3,
+        "timer": true,
+        "run": true,
+        "modul": "RHS",  
+        "persmessage": ""   
+      }
+    },
 "e97fe8874c139e6d05ada74d89fb337365edc2b07a6ddc60e167744a3eb9c7f9f614155ed2b05e8c3e1ec70a57f84229be209752807e886290203f5dbc933487d833823830397e94f36855d3010abd8e10f36fdf4c9d674687de2793ef66d16606934e0b5f712c116e9a410981ce0f18": {
       "name" : "Николай +79046891601 @Bizeklon", 
       "admin" : false,         
