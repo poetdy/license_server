@@ -91,6 +91,19 @@
         "persmessage": ""   
       }
     },
+"e97fe8874c139e6d05ada74d89fb33732536678eee8c9d2d28a2267632cb8a9b3c3b5797a4ad45a084f4c8b55e9f13aca1b9a5a952f649eb2ffd7d63a44ff8c0404206281a5492e6b34d2540c849784cc6f348f214d486d88167e7e0ac6298d669bb7e7aa1a51d05d79630166c5d102b": {
+      "name" : "Александр Громов https://t.me/gramotnye_reshenya", 
+      "admin" : false,         
+      "persmessage": "",
+  "AnalyzModel v2.01trial.js": {
+        "expire": "2023-12-23",
+        "warning": 1,
+        "timer": true,
+        "run": true,
+        "modul": "RHS",  
+        "persmessage": ""   
+      }
+    },
 "e97fe8874c139e6d05ada74d89fb33732cb79b4d330ba254ae086c86d25eee44affa1eae420c027738ee76c481c9ec3bf2bdf7d2d3bd54c91df60b5481ae30b3bf9129540807fc431b2d1c4c1c48f4b949cfd7f937e7ca748d485daa6e11e7b1defbdfbd3b786e46346bee31756b5b09": {
       "name" : "Евгений Tuz 2", 
       "admin" : false,         
