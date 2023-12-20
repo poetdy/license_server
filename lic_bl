@@ -78,6 +78,19 @@
         "persmessage": ""   
       }
     },
+"e97fe8874c139e6d05ada74d89fb3373b763b1a398c5f57d6b032f5193bc5886bf12993c919568d61a47aa91938adced359ee089708a5c57940c399e6e6f7181a9bc74c0a46e7fb2f27929ce97b11fc754d1d590c6141019b3861004dab385ce039ca698ffa977ac79bc477d356a4692": {
+      "name" : "Максим  , https://t.me/maxi2014", 
+      "admin" : false,         
+      "persmessage": "",
+  AnalyzModel v2.01trial.js": {
+        "expire": "2023-12-23",
+        "warning": 1,
+        "timer": true,
+        "run": true,
+        "modul": "RHS",  
+        "persmessage": ""   
+      }
+    },
 "e97fe8874c139e6d05ada74d89fb33732cb79b4d330ba254ae086c86d25eee44affa1eae420c027738ee76c481c9ec3bf2bdf7d2d3bd54c91df60b5481ae30b3bf9129540807fc431b2d1c4c1c48f4b949cfd7f937e7ca748d485daa6e11e7b1defbdfbd3b786e46346bee31756b5b09": {
       "name" : "Евгений Tuz 2", 
       "admin" : false,         
