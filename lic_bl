@@ -69,8 +69,8 @@
       "name" : "Евгений . Логин в телеге Tuzmanishe (Tuz)", 
       "admin" : false,         
       "persmessage": "",
-  "AnalyzModel v2.01.js": {
-        "expire": "2023-12-24",
+  "AnalyzModel v2.03.js": {
+        "expire": "2023-12-28",
         "warning": 3,
         "timer": true,
         "run": true,
@@ -108,8 +108,8 @@
       "name" : "Евгений Tuz 2", 
       "admin" : false,         
       "persmessage": "",
-  "AnalyzModel v2.01.js": {
-        "expire": "2023-12-24",
+  "AnalyzModel v2.03.js": {
+        "expire": "2023-12-28",
         "warning": 3,
         "timer": true,
         "run": true,
