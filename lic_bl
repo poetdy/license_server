@@ -171,13 +171,13 @@
     },
 
 "e97fe8874c139e6d05ada74d89fb3373c978731defbb2dc01721f82b55eca8d2c2abbb629b1019ec4127c78bcb3d1b37e5b6cd15de21f07bea3c8f82b94655c2b905c85a8a01e86047ee3dbb856d9adb6ad886fcd0aaf8fb8f9e4a718da4b2b91d8d63a19a58092d8b9b90a54e0b6985": {
-      "name" : "Dmitrii Gorbunov 89509330330 Комп технолога", 
+      "name" : "  фффф", 
       "admin" : false,         
       "persmessage": "",
-      "AnalyzModel v2trial.js": {
-        "expire": "2023-12-11",
+      "AnalyzModel v2.03.js": {
+        "expire": "2099-12-11",
         "warning": 3,
-        "timer": true,
+        "timer": false,
         "run": true,
         "modul": "RHS",  
         "persmessage": ""   
