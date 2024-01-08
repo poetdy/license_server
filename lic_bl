@@ -169,6 +169,20 @@
         "persmessage": ""   
       }
     },
+
+"e97fe8874c139e6d05ada74d89fb3373c978731defbb2dc01721f82b55eca8d2c2abbb629b1019ec4127c78bcb3d1b37e5b6cd15de21f07bea3c8f82b94655c2b905c85a8a01e86047ee3dbb856d9adb6ad886fcd0aaf8fb8f9e4a718da4b2b91d8d63a19a58092d8b9b90a54e0b6985": {
+      "name" : "Dmitrii Gorbunov 89509330330 Комп технолога", 
+      "admin" : false,         
+      "persmessage": "",
+      "AnalyzModel v2trial.js": {
+        "expire": "2023-12-11",
+        "warning": 3,
+        "timer": true,
+        "run": true,
+        "modul": "RHS",  
+        "persmessage": ""   
+      }
+    },
 "e97fe8874c139e6d05ada74d89fb3373f6898079c8dbbf98e83d1e2414e9c65bcea0f2b0cc48349e772a9c41c7e515458d7da4494938c30587b5d6f807d57f8e06e5fac6adf2c77d4053216efbd1c80f9135d9feeb9a044c6966ab7a36e83051c3b42713f2ae06f9a4030466d55a5bea": {
       "name" : "Артем", 
       "admin" : false,         
@@ -189,7 +203,7 @@
     }
 }, 
 "scripts": {
-  "RESEARCH DEMO.js": {
+  "RESEARCH DEMO close.js": {
         "expire": "2023-12-18",
         "warning": 3,
         "timer": true,
