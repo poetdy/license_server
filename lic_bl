@@ -18,6 +18,13 @@
         "run": true,
       "persmessage": ""   
       },
+       "BarScripts": {
+        "expire": "2024-01-28",
+        "warning": 14,
+        "timer": true,
+        "run": true,
+      "persmessage": ""   
+      },
        "RESEARCH DEMO.js": {
         "expire": "2023-12-28",
         "warning": 14,
