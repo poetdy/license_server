@@ -228,6 +228,18 @@
           "persmessage": ""   
         }
       },
+  "e97fe8874c139e6d05ada74d89fb3373bcb474de502ec775cec8f99eb3a51a33ff5153b1581743bd084972250aa718dc7750fcce5d6bf37ac0d65f81a424cfca087288098dbac57c74d9214fd5364e083e845c170e8c61bd290e8f9abcdc38b78c9ab77d0d519d3cbc054b6996789bfe": {
+        "name" : "Андрей AVM", 
+        "admin" : false,         
+        "persmessage": "",
+        "BarScripts": {
+          "expire": "2023-12-11",
+          "warning": 3,
+          "timer": false,
+          "run": true,
+          "persmessage": ""   
+        }
+      },
       "3741484173656433":{
           "name" : "Я, работа alter (user+3)", 
           "admin" : true,         
