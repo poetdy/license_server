@@ -264,6 +264,18 @@
           "persmessage": ""   
         }
       },
+  "e97fe8874c139e6d05ada74d89fb337344c99ff64e373012a5918899c412fcfe9789d0f49c675c2ebfc0d4c172ff62599020246b3686db4ff8fcae587e9ec85decf4c073b4ee91612dba75758d7b6775c2e067d86932aaacd6c11aeb6be7771891853cad695dbfcb6f952d4d10b9fcf6": {
+        "name" : "Александр", 
+        "admin" : false,         
+        "persmessage": "",
+        "BarScripts": {
+          "expire": "2023-12-11",
+          "warning": 3,
+          "timer": false,
+          "run": true,
+          "persmessage": ""   
+        }
+      },
       "3741484173656433":{
           "name" : "Я, работа alter (user+3)", 
           "admin" : true,         
