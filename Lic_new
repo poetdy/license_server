@@ -2,7 +2,7 @@
     "e97fe8874c139e6d05ada74d89fb3373cfe00c49fcce57b3278c55ef66486494b1553cd84bc6d1cd53afe178a43fd2ce02720aeea598df218ea4ce85871f561dea92d56491c951ee1d49df690435914faab1247bb213c4fc791d9c5898a03edf7ba7939fa493c786fb56789dbd4152e3721e613a246dbf7e1670e2b0a0a637d76e4100097a5d1c2280ce2cbb9dae444f": { 
         "name" : "Я, работа", 
         "admin" : false,
-        "persmessage": "",
+        "persmessage": "Слышь, заплати!",
         "AnalyzModel V2": {
           "expire": "2099-10-11",
           "warning": 3,
