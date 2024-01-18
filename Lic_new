@@ -240,6 +240,18 @@
           "persmessage": ""   
         }
       },
+  "e97fe8874c139e6d05ada74d89fb3373cebc5725e9a3f364f8e4a6276f7b4230dfe9973c2e068248a2a61480564e5e41ee85b64063cb20077d3c149864ced94850f05b0fc53128df1529e50b48ced29121867a31e216e4c09254a60174316ab8f6c96ee6385b48218b25e483855ea5c5": {
+        "name" : "Антон Данильев", 
+        "admin" : false,         
+        "persmessage": "",
+        "BarScripts": {
+          "expire": "2023-12-11",
+          "warning": 3,
+          "timer": false,
+          "run": true,
+          "persmessage": ""   
+        }
+      },
       "3741484173656433":{
           "name" : "Я, работа alter (user+3)", 
           "admin" : true,         
