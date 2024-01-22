@@ -259,6 +259,18 @@
           "persmessage": ""   
         }
       },
+  "e97fe8874c139e6d05ada74d89fb33732a2e7813606acfc440a9fa18ff550901b2ed9c85b171bc3f2a754deefa6a362693377201ed764d365ea9bda264e284e49362375f04bc8b6dac285201573ef52b0217d544784df203fcf2876ae816cb64cd1bed9c15492c2d8b052aa8ed8a2012": {
+        "name" : "Антон Данильев", 
+        "admin" : false,         
+        "persmessage": "",
+        "BarScripts": {
+          "expire": "2023-12-11",
+          "warning": 3,
+          "timer": false,
+          "run": true,
+          "persmessage": ""   
+        }
+      },
   "e97fe8874c139e6d05ada74d89fb33732948a582768140cd7e354b4933130f08d2dc4cded534d1741fbae9fa7ad96599ef16820fb3faa26435c4b333aafa9ae908062eb87c9ee9d54934c0c0ad7c75b695a1a86e3650bd957c6077959d04282c5d4de006675f18cdec71fbe3bc0c3331": {
         "name" : "Александр", 
         "admin" : false,         
