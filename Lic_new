@@ -295,6 +295,18 @@
           "persmessage": ""   
         }
       },
+  "4bba0e82bdab06974cd6a86022ab4f7162837e43406c802af2d615b5f455b496b8afe0ca3dd63c78d7a8388ee6a545d7582459a21a5f15d5b18c24b44e48d710acd7dbaff1fd7eb6d28d1f70409cd9a9": {
+        "name" : "Технолог https://t.me/TechnologON", 
+        "admin" : false,         
+        "persmessage": "",
+        "Blocker": {
+          "expire": "2023-12-11",
+          "warning": 3,
+          "timer": false,
+          "run": true,
+          "persmessage": ""   
+        }
+      },
       "3741484173656433":{
           "name" : "Я, работа alter (user+3)", 
           "admin" : true,         
