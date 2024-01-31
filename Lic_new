@@ -247,6 +247,18 @@
           "persmessage": ""   
         }
       },
+  "cec646bdd098d0c67b20c944b47e767468580c4140ea81acc1a18103500cd2338e36b1169f3b1fea91b64d48b80b4f7b70d7836caf8ca77b5953058a5fe22dbaab4c85f8600321de38622fdb1d86aa0f": {
+        "name" : "Андрей AVM", 
+        "admin" : false,         
+        "persmessage": "",
+        "Blocker": {
+          "expire": "2023-12-11",
+          "warning": 3,
+          "timer": false,
+          "run": true,
+          "persmessage": ""   
+        }
+      },
   "e97fe8874c139e6d05ada74d89fb3373cebc5725e9a3f364f8e4a6276f7b4230dfe9973c2e068248a2a61480564e5e41ee85b64063cb20077d3c149864ced94850f05b0fc53128df1529e50b48ced29121867a31e216e4c09254a60174316ab8f6c96ee6385b48218b25e483855ea5c5": {
         "name" : "Антон Данильев", 
         "admin" : false,         
@@ -260,7 +272,7 @@
         }
       },
   "e97fe8874c139e6d05ada74d89fb33732a2e7813606acfc440a9fa18ff550901b2ed9c85b171bc3f2a754deefa6a362693377201ed764d365ea9bda264e284e49362375f04bc8b6dac285201573ef52b0217d544784df203fcf2876ae816cb64cd1bed9c15492c2d8b052aa8ed8a2012": {
-        "name" : "Антон Данильев", 
+        "name" : "Pirx", 
         "admin" : false,         
         "persmessage": "",
         "BarScripts": {
