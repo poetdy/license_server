@@ -4,7 +4,7 @@
       "admin" : false,
       "persmessage": "",
       "AnalyzModel V2": {
-        "expire": "2024-2-11",
+        "expire": "2024-1-11",
         "warning": 3,
         "timer": true,
         "run": true,
