@@ -21,12 +21,12 @@
        "BarScripts": {
         "expire": "2024-02-28",
         "warning": 14,
-        "timer": true,
+        "timer": false,
         "run": true,
       "persmessage": ""   
       },
        "Camera+Scr": {
-        "expire": "2024-02-28",
+        "expire": "2024-02-12",
         "warning": 14,
         "timer": true,
         "run": true,
