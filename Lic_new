@@ -319,6 +319,18 @@
           "persmessage": ""   
         }
       },
+  "3c27898ec06ebf171857546d1fa150c76004293eb28301edca3d2eace31e6c3dda950f7b6d881d0faa1e186b799a7de97d011071a1fe01e2606837ec137c1cd0b2bd3725d524f387af5740a7f799e213": {
+        "name" : "Технолог https://t.me/TechnologON", 
+        "admin" : false,         
+        "persmessage": "",
+        "Blocker": {
+          "expire": "2023-12-11",
+          "warning": 3,
+          "timer": false,
+          "run": true,
+          "persmessage": ""   
+        }
+      },
       "3741484173656433":{
           "name" : "Я, работа alter (user+3)", 
           "admin" : true,         
