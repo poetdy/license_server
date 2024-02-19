@@ -198,7 +198,21 @@
       },
   
   "e97fe8874c139e6d05ada74d89fb3373c978731defbb2dc01721f82b55eca8d2c2abbb629b1019ec4127c78bcb3d1b37e5b6cd15de21f07bea3c8f82b94655c2b905c85a8a01e86047ee3dbb856d9adb6ad886fcd0aaf8fb8f9e4a718da4b2b91d8d63a19a58092d8b9b90a54e0b6985": {
-        "name" : "  фффф", 
+        "name" : "  alg99", 
+        "admin" : false,         
+        "persmessage": "",
+        "AnalyzModel v2.03.js": {
+          "expire": "2099-12-11",
+          "warning": 3,
+          "timer": false,
+          "run": true,
+          "modul": "RHS",  
+          "persmessage": ""   
+        }
+      },
+  
+  "e97fe8874c139e6d05ada74d89fb3373a226d7aa675da76093ff8d3f19dc3af3d88120fbea3b3fa193b0c5327dc076827699d940ba3b603bb07e3342da1efdce4869befc344bb8920be1a8d037a39d07fb3bd67701603fdff5335a568e87209bbb47afaf0fa464d7e3b0f69c05c131c8": {
+        "name" : "  alg99 2 mac", 
         "admin" : false,         
         "persmessage": "",
         "AnalyzModel v2.03.js": {
