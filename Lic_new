@@ -45,7 +45,7 @@
         "admin" : false,
         "persmessage": ""
          "BarScripts": {
-          "expire": "2024-01-28",
+          "expire": "2024-05-28",
           "warning": 14,
           "timer": true,
           "run": true,
