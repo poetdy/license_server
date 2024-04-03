@@ -9,7 +9,7 @@
       "Camera+Scr":     {"expire": "2024-02-12", "warning": 14, "timer": true,  "run": true,                  "persmessage": ""},
       "Blocker":        {"expire": "2024-03-30", "warning": 14, "timer": true,  "run": true,                  "persmessage": ""}
     },
-  "1Q0FSH0DH H": { 
+  "1Q0FSH0D H": { 
       "name" : "Я, работа", 
       "admin" : false,
       "persmessage": "",
