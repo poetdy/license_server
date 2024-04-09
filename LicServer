@@ -13,7 +13,7 @@
       "name" : "Я, работа", 
       "admin" : false,
       "persmessage": "",
-      "AnalyzModel V3": {"expire": "2024-05-11",  "warning": 3,  "timer": true,  "run": true,"modul": "RHS",   "persmessage": ""},
+      "AnalyzModel V3": {"expire": "2024-05-11",  "warning": 3,  "timer": false,  "run": true,"modul": "RHS",   "persmessage": ""},
       "Elastick V1.0":  {"expire": "2023-12-28", "warning": 14, "timer": true,  "run": true,                  "persmessage": ""},
       "BarScripts":     {"expire": "2024-02-28", "warning": 14, "timer": false, "run": true,                  "persmessage": ""},
       "Camera+Scr":     {"expire": "2024-02-12", "warning": 14, "timer": true,  "run": true,                  "persmessage": ""},
